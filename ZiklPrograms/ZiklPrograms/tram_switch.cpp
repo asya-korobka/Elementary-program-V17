@@ -1,7 +1,7 @@
 // ZiklPrograms.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
-//Завдання 1 на циклічні оператори методом switch
+//Р—Р°РІРґР°РЅРЅСЏ 1 РЅР° С†РёРєР»С–С‡РЅС– РѕРїРµСЂР°С‚РѕСЂРё РјРµС‚РѕРґРѕРј switch
 #include <iostream>
 #include <stdio.h>
 using namespace std;
