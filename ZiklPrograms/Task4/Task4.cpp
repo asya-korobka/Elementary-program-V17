@@ -1,7 +1,7 @@
 // Task4.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
-//Завдання 4 на циклічні оператори 
+//Р—Р°РІРґР°РЅРЅСЏ 4 РЅР° С†РёРєР»С–С‡РЅС– РѕРїРµСЂР°С‚РѕСЂРё 
 #include <iostream>
 #include <math.h>
 #include <stdio.h>
