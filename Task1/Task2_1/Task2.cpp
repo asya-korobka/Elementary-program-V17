@@ -1,4 +1,4 @@
-//Задача 2 на багатовимірні масиви зі всіма підпунктами
+//Р—Р°РґР°С‡Р° 2 РЅР° Р±Р°РіР°С‚РѕРІРёРјС–СЂРЅС– РјР°СЃРёРІРё Р·С– РІСЃС–РјР° РїС–РґРїСѓРЅРєС‚Р°РјРё
 #include <iostream>
 #include <stdio.h>
 #include <iomanip>
@@ -8,6 +8,7 @@ using namespace std;
 
 int GenerateRandomNumber(int min, int max)
 {
+	setlocale(0, ".1251");
 	random_device randDevice;
 	default_random_engine dre(randDevice());
 	uniform_int_distribution<int> bernoulli_distribution(min, max);
