@@ -1,6 +1,6 @@
 // Task1.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
-//Задача 1 на багатовимірні масиви
+//Р—Р°РґР°С‡Р° 1 РЅР° Р±Р°РіР°С‚РѕРІРёРјС–СЂРЅС– РјР°СЃРёРІРё
 
 #include <iostream>
 #include <stdio.h>
@@ -11,6 +11,7 @@ using namespace std;
 
 int GenerateRandomNumber(int min, int max)
 {
+	setlocale(0, ".1251");
 	random_device randDevice;
 	default_random_engine dre(randDevice());
 	uniform_int_distribution<int> bernoulli_distribution(min, max);
