@@ -1,7 +1,7 @@
 // Task7.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
-//Задача 7 на одновимірні масиви
+//Р—Р°РґР°С‡Р° 7 РЅР° РѕРґРЅРѕРІРёРјС–СЂРЅС– РјР°СЃРёРІРё
 #include <iostream>
 #include <math.h>
 #include <stdio.h>
