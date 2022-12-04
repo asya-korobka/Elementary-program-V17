@@ -1,6 +1,6 @@
 // Task2.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
-//Задача 2 на одновимірні масиви
+//Р—Р°РґР°С‡Р° 2 РЅР° РѕРґРЅРѕРІРёРјС–СЂРЅС– РјР°СЃРёРІРё
 
 #include <iostream>
 #include <math.h>
