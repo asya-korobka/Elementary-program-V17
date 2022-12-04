@@ -1,7 +1,7 @@
 // Coordinats.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
-//Завдання 2 на циклічні оператори 
+//Р—Р°РІРґР°РЅРЅСЏ 2 РЅР° С†РёРєР»С–С‡РЅС– РѕРїРµСЂР°С‚РѕСЂРё 
 #include <iostream>
 #include <math.h>
 #include <cmath>
